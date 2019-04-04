@@ -7,7 +7,18 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
-        "spatie/laravel-medialibrary": "^3.18.0"
+        "spatie/laravel-medialibrary": "^3.18.0",
+        "spatie/image-optimizer": "^1.0",
+        "predis/predis": "^1.1",
+        "prettus/l5-repository": "^2.6",
+        "laravelcollective/html": "^5.2",
+        "edvinaskrucas/settings": "^2.0",
+        "cviebrock/eloquent-sluggable": "^4.0",
+        "chriskonnertz/open-graph": "^1.0",
+        "eusonlito/laravel-meta": "^3.0",
+        "rtconner/laravel-tagging": "~2.2",
+        "laravel/socialite": "2.*",
+        "dmknvk/laravel-image-optimizer": "^0.1.2"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
